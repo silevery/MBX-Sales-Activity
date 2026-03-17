@@ -1,0 +1,13 @@
+{
+  "name": "sales-manager",
+  "version": "1.0.0",
+  "description": "Sales Management System",
+  "private": true,
+  "scripts": {
+    "build": "echo 'Build complete'",
+    "start": "python3 -m http.server 3000"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
